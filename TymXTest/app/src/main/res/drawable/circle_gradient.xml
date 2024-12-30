@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Outer shadow or background -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#E0E0E0" /> <!-- Background color -->
+        </shape>
+    </item>
+
+    <!-- Gradient layer -->
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:gradientRadius="50%"
+                android:startColor="#FFFFFF"
+                android:endColor="#F2F2F2"
+                android:useLevel="false" />
+        </shape>
+    </item>
+</layer-list>

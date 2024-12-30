@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TymeXTest</string>
+    <string name="title_activity_user_detail">UserDetailActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="back_button">Back Button</string>
+    <string name="user_details">User Details</string>
+    <string name="avatar">Avatar</string>
+    <string name="followers_icon">Followers Icon</string>
+    <string name="following_icon">Following Icon</string>
+    <string name="blog">Blog</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="github_users">Github Users</string>
+</resources>
